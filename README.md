@@ -22,9 +22,11 @@ torch version: 2.1.2+cu121
 
 ## cite us: 
 
+```
 @article{yu2024neuron,
   title={Neuron-Level Knowledge Attribution in Large Language Models},
   author={Yu, Zeping and Ananiadou, Sophia},
   journal={arXiv preprint arXiv:2312.12141},
   year={2024}
 }
+```
