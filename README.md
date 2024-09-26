@@ -8,7 +8,7 @@ The code in the jupyter notebook also introduces how to analyze the positional v
 
 The code in the jupyter notebook also introduces how to get the interpretability of the shallow FFN neurons, inspired by [this repo](https://github.com/zepingyu0512/arithmetic-mechanism) in EMNLP 2024 paper: [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://arxiv.org/pdf/2409.14144).
 
-cite us: 
+# cite us: 
 
 @article{yu2024neuron,
   title={Neuron-Level Knowledge Attribution in Large Language Models},
