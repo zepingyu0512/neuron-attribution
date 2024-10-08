@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is for the EMNLP 2024 paper: [Neuron-Level Knowledge Attribution in Large Language Models](https://arxiv.org/pdf/2312.12141).
+This repo is for the EMNLP 2024 paper: Neuron-Level Knowledge Attribution in Large Language Models. [paper](https://arxiv.org/pdf/2312.12141) [project](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
 This work introduces how to identify the important neurons for the prediction token in LLMs. It first identifies the "value FFN neurons" (usually in medium-deep layers) and "value attention neurons" (usually in medium-deep layers) using the log probability increase method. Then it identifies the "query FFN neurons" (usually in shallow-medium layers) by calculating the inner products between each query FFN neuron and the top30 value attention neurons.
 
