@@ -20,6 +20,8 @@ transformers version: 4.37.1
 
 torch version: 2.1.2+cu121
 
+others version: please see environment.yml
+
 ## cite us: 
 
 ```
