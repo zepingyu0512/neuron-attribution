@@ -21,10 +21,10 @@ Then, run the code in Llama_view_knowledge.ipynb using jupyter notebook. This in
 ## cite us: 
 
 ```
-@article{yu2024neuron,
-  title={Neuron-Level Knowledge Attribution in Large Language Models},
-  author={Yu, Zeping and Ananiadou, Sophia},
+@article{yu2023exploring,
+  title={Exploring the Residual Stream of Transformers},
+  author={Yu, Zeping and Yang, Kailai and Liu, Zhiwei and Ananiadou, Sophia},
   journal={arXiv preprint arXiv:2312.12141},
-  year={2024}
+  year={2023}
 }
 ```
