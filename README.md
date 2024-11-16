@@ -10,7 +10,7 @@ The code in the jupyter notebook also introduces how to analyze the positional v
 
 The code in the jupyter notebook also introduces how to get the interpretability of the shallow FFN neurons, inspired by [this repo](https://github.com/zepingyu0512/arithmetic-mechanism) in [this EMNLP 2024 paper](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/).
 
-## running code
+## Running code
 
 Before running the code, you can directly have a look at the jupyter notebook file in Llama_view_knowledge.ipynb or GPT2_view_knowledge.ipynb. The interpretability findings are visualized, without running the code yourself.
 
