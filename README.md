@@ -14,9 +14,9 @@ The code in the jupyter notebook also introduces how to get the interpretability
 
 Environment versions: please see **environment.yml**
 
-First, please use modeling_llama.py to replace the original file in the transformers path, which is usually in anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/llama. This modified file is useful for extracting the internal vectors during inference time. **Please remember to save the original file.** 
+First, please use modeling_llama.py or modeling_gpt2.py to replace the original file in the transformers path, which is usually in anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/llama or anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/gpt2. This modified file is useful for extracting the internal vectors during inference time. **Please remember to save the original files.** 
 
-Then, run the code in Llama_view_knowledge.ipynb using jupyter notebook. This introduces how to identify and analyze the value neurons and query neurons for one sentence.
+Then, run the code in Llama_view_knowledge.ipynb or GPT2_view_knowledge.ipynb using jupyter notebook. This introduces how to identify and analyze the value neurons and query neurons for one sentence.
 
 ## cite us: 
 
